@@ -1,0 +1,2 @@
+# Model-and-simulation-files-for-the-paper-optimum-solution-for-multiple-cyberattacksw-on-AVs
+The files include final model and simulation setup and files. The model is able to train on car hacking dataset and will detect cyberattacks(replay, fuzzy, DoS, RPM, and Gear) on autonomous vehicles. the simulation files run on SUMO  trains on dataset and can simulate how the model works to mitigate the attacks in a SUMO software city environment.
