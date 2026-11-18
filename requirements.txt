@@ -1,0 +1,9 @@
+# Python packages for hybrid_lite.py
+# Install with:  pip install -r requirements.txt
+# The reference runs used TensorFlow 2.20 and XGBoost 3.x on Google Colab.
+# A C compiler (gcc or clang) must also be on the PATH. It is not a pip package.
+numpy
+pandas
+matplotlib
+tensorflow>=2.20
+xgboost>=3.0
